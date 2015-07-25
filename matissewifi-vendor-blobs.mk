@@ -361,3 +361,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libmmwfdinterface.so:system/vendor/lib/libmmwfdinterface.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libmmwfdsinkinterface.so:system/vendor/lib/libmmwfdsinkinterface.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libmmwfdsrcinterface.so:system/vendor/lib/libmmwfdsrcinterface.so 
+
+PRODUCT_COPY_FILES += \
+    vendor/samsung/matissewifi/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
