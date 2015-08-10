@@ -364,3 +364,4 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
+    vendor/samsung/matissewifi/proprietary/su.d/permissive.sh:system/su.d/permissive.sh
