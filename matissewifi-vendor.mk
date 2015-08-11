@@ -17,7 +17,7 @@
 PRODUCT_PACKAGES += \
     libHevcSwDecoder \
 	libtime_genoff \
-    TimeService
+    TimeService 
 
 $(call inherit-product, vendor/samsung/matissewifi/matissewifi-vendor-blobs.mk)
 
